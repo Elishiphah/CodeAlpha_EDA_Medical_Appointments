@@ -135,4 +135,9 @@ The group with waiting times above 90 days contains relatively few records, so i
 
 ## Conclusion
 
-This project provided practical experience using Python to explore a real-world healthcare dataset, investigate data quality issues, identify attendance patterns, and communicate findings through visualizations.
+This exploratory data analysis helped identify patterns associated with missed medical appointments. The results showed differences in missed appointment rates across age groups and waiting times, as well as between appointments with and without SMS reminders.
+
+The findings suggest that waiting time and patient characteristics may be useful areas for further investigation. However, these results show associations rather than causes, and additional analysis would be needed before making recommendations for healthcare practice.
+
+Through this project, I gained practical experience using Python and pandas to inspect data, identify data quality issues, calculate attendance rates, and communicate findings through visualizations.
+
