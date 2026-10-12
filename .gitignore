@@ -1,0 +1,10 @@
+# Keep the original dataset out of Git uploads
+KaggleV2-May-2016.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.venv/
