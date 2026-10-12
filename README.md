@@ -96,13 +96,13 @@ Compares missed appointment rates across different waiting-time groups.
 
 ## Data Quality and Limitations
 
-Unusual values were investigated without deleting records from the original dataset.
+* **Missing values:** The checks performed found no missing values in the dataset.
+* **Duplicate records:** No duplicate records were identified in the checks performed.
+* **Unusual ages:** One record contained an age of -1, and seven records had ages above 100. These values were flagged for further investigation rather than automatically changed or deleted.
+* **Waiting times:** Five records had negative waiting times. These were excluded from the waiting-time comparison because they may reflect data-entry issues or inconsistencies in the recorded dates.
+* **Interpretation:** The analysis identifies associations, not causes. For example, the higher missed appointment rate among patients who received SMS reminders does not mean the reminders caused missed appointments.
+* **Limitations:** The findings are based on the available dataset and may not explain every reason patients miss appointments. Further investigation would be needed before using these results to make healthcare decisions.
 
-Negative waiting times were excluded from the waiting-time group comparison but retained in the original data.
-
-The results show associations in this dataset and do not establish that SMS reminders or waiting times cause patients to miss appointments.
-
-The group with waiting times above 90 days contains relatively few records, so its results should be interpreted cautiously.
 
 ## How to Run the Project
 
