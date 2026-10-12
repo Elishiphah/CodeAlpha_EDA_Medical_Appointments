@@ -66,12 +66,14 @@ The original dataset was retained without deleting or changing records during th
 The project generates three charts:
 
 ### 1. Missed Appointments by Age Group
+![Missed Appointments by Age Group](missed_appointments_by_age.png)
 
 File: `missed_appointments_by_age.png`
 
 Compares missed appointment rates across patient age groups.
 
 ### 2. Missed Appointments by SMS Reminder
+![Missed Appointments by SMS Reminder](missed_appointments_by_sms.png)
 
 File: `missed_appointments_by_sms.png`
 
@@ -80,6 +82,7 @@ Compares missed appointment rates between patients who received SMS reminders an
 ### 3. Missed Appointments by Waiting Time
 
 File: `missed_appointments_by_waiting_time.png`
+![Missed Appointments by Waiting Time](missed_appointments_by_waiting_time.png)
 
 Compares missed appointment rates across different waiting-time groups.
 
