@@ -32,7 +32,7 @@ The dataset contains 110,527 appointment records and 14 original columns.
 
 The original dataset was retained without deleting or changing records during the data quality checks.
 
-**Dataset source:** Medical Appointment No Shows, Kaggle.
+**Dataset source:** [Medical Appointment No Shows on Kaggle](https://www.kaggle.com/joniarroba/noshowappointments)
 
 **Licence:** CC BY-NC-SA 4.0, as listed on the dataset page.
 
