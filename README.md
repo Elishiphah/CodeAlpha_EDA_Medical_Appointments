@@ -2,9 +2,14 @@
 
 ## Project Overview
 
-This project explores a medical appointment dataset to understand patient attendance patterns and identify factors associated with missed appointments.
+This project explores a medical appointment dataset to understand patterns associated with missed hospital appointments.
 
-I used Python to inspect the data, investigate data quality issues, calculate attendance rates, and create charts to communicate the findings.
+Using Python and pandas, I performed exploratory data analysis (EDA) to examine appointment attendance, patient age groups, SMS reminders, and waiting times between scheduling and appointments.
+
+The analysis identifies patterns in missed appointments and highlights areas that may deserve further investigation to help healthcare providers better understand appointment attendance.
+
+This project was completed as part of my CodeAlpha Data Analytics Internship.
+
 
 ## Project Objectives
 
