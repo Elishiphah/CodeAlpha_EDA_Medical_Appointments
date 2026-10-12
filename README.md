@@ -56,8 +56,6 @@ The original dataset was retained without deleting or changing records during th
 
 ## Key Findings
 
-## Key Findings
-
 * **Overall attendance:** The dataset contains 110,527 medical appointments. Of these, 88,208 appointments were attended and 22,319 were missed. The overall missed appointment rate was approximately 20.19%.
 
 * **Age groups:** Patients aged 18–35 had the highest missed appointment rate at approximately 23.82%, while patients aged 56–75 had the lowest rate at approximately 15.53%.
