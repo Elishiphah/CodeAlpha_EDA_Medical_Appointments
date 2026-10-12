@@ -56,15 +56,18 @@ The original dataset was retained without deleting or changing records during th
 
 ## Key Findings
 
-* The dataset contains 110,527 appointment records.
-* No missing values or duplicate rows were detected.
-* One record had a negative patient age, and seven records had ages above 100.
-* Approximately 20.19% of appointments were recorded as missed.
-* Patients aged 18–35 had the highest missed appointment rate among the age groups analyzed, at 23.82%.
-* The missed appointment rate was 27.57% among patients who received SMS reminders and 16.70% among those who did not.
-* Same-day appointments had the lowest missed appointment rate, at 4.65%.
-* Appointments with waiting times of 31–90 days had the highest missed appointment rate among the waiting-time groups, at 33.16%.
-* Five records had negative waiting times and were flagged for investigation.
+## Key Findings
+
+* **Overall attendance:** The dataset contains 110,527 medical appointments. Of these, 88,208 appointments were attended and 22,319 were missed. The overall missed appointment rate was approximately 20.19%.
+
+* **Age groups:** Patients aged 18–35 had the highest missed appointment rate at approximately 23.82%, while patients aged 56–75 had the lowest rate at approximately 15.53%.
+
+* **SMS reminders:** Appointments with an SMS reminder had a higher missed appointment rate (27.57%) than appointments without a reminder (16.70%). This is an observed association and does not prove that SMS reminders cause missed appointments.
+
+* **Waiting time:** The missed appointment rate was highest for appointments scheduled 31–90 days in advance, at approximately 33.16%. Same-day appointments had the lowest rate, at approximately 4.65%.
+
+* **Data quality:** No missing values or duplicate records were identified in the checks performed. However, the dataset contained one negative age and seven records with ages above 100, which require further investigation.
+
 
 ## Visualizations
 
