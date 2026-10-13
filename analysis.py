@@ -1,6 +1,21 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# CodeAlpha Task 2: Exploratory Data Analysis
+# Dataset: Medical Appointment No-Shows
+
+# Research Questions:
+# 1. What proportion of appointments were missed?
+# 2. Do missed-appointment rates differ by gender and age group?
+# 3. Is receiving an SMS reminder associated with missed appointments?
+# 4. Is waiting time associated with missed appointments?
+# 5. Are there data-quality issues that could affect the analysis?
+
+
+# Load the medical appointments dataset
+df = pd.read_csv("KaggleV2-May-2016.csv")
+
+
 # Load the medical appointments dataset
 df = pd.read_csv("KaggleV2-May-2016.csv")
 
